@@ -1,4 +1,1 @@
-[submodule "Odoo-Instance/Shopee-Connector"]
-	path = Odoo-Instance/Shopee-Connector
-	url = git@github.com:Odoo-Instance/Shopee-Connector.git
-	branch = main
+
